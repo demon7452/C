@@ -4,4 +4,3 @@ int main()							/* 主函数 */
 }
 /* 编译：gcc hello.c */
 /* 运行：linux环境中：./a.out  cygwin环境中： ./a.exe */
-
